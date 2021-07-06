@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 36463f503e9f0ac45b4b9927ab3cb4b2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - handPlayer: {instanceID: 0}
+  - baralho: {instanceID: 0}
+  - botaoComprarCarta: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

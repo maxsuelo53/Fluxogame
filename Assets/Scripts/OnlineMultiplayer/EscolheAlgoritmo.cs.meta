@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 071d256ca768d884e83b300b1fa478cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mostraObjetivos: {fileID: 760892920955860800, guid: f045df340f2d71e448a2f9b14b0231e2,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
