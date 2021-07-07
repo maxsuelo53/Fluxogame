@@ -3,6 +3,8 @@
 # :memo: Descrição
 Fluxogame é um jogo de cartas educacional, ele utiliza de fluxograma para auxiliar no aprendizado de algoritmo e lógica de programação. O modo das partidas são multiplayer online e não necessita dos jogadores estarem na mesma rede local. O intuito do jogo é estimular os jogadores por meio de desafios 1 contra 1 na busca de resolver algoritmos utilizando fluxogramas. Cada algoritmo resolvido vale diferentes pontuações. O jogador que atinge x pontos (definido no início da partida) ganha. O jogo em sua primeira versão faz parte do Trabalho de Conclusão de Curso (TCC) do aluno Maxsuel Oliveira, para o curso de Análise e desenvolvimento de sistemas, no IFTM Campus Patrocínio.
 
+<img width="200" alt="logo-inst" src="./LOGO.png">
+
 # :gear: Tecnologias Utilizadas
 
   * Unity3D;
