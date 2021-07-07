@@ -1,4 +1,4 @@
-# :video_game: Fluxogame_JogoEducacional
+# :video_game: Fluxogame - um jogo para auxiliar no aprendizado de algoritmo e lógica de programação através de fluxograma
 
 # :memo: Descrição
 Fluxogame é um jogo de cartas educacional, ele utiliza de fluxograma para auxiliar no aprendizado de algoritmo e lógica de programação. O modo das partidas são multiplayer online e não necessita dos jogadores estarem na mesma rede.
